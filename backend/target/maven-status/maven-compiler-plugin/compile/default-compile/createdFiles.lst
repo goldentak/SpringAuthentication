@@ -1,0 +1,9 @@
+com/example/app/dto/RegisterRequest.class
+com/example/app/dto/RegisterRequest$RegisterRequestBuilder.class
+com/example/app/models/User$UserBuilder.class
+com/example/app/controllers/AuthController.class
+com/example/app/dto/LoginRequest.class
+com/example/app/repositories/UserRepository.class
+com/example/app/models/User.class
+com/example/app/dto/LoginRequest$LoginRequestBuilder.class
+com/example/app/App.class
